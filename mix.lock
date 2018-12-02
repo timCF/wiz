@@ -1,0 +1,3 @@
+%{
+  "uelli": {:hex, :uelli, "0.1.6", "3ced361c14268113a3cbb015b99bdb499d65db376656841bd99649dafe2ae3c2", [:mix], [], "hexpm"},
+}
